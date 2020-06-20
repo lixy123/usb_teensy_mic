@@ -9,6 +9,11 @@
     B. 安装 teensy 开发库，<br/>
     C. 打开源码,选择开发板，烧录<br/>
 
+<p>
+效果图如下，查了资料，用teensy 3.2也可以，体积是如图的一半
+<img src= 'https://github.com/lixy123/usb_teensy_mic/blob/master/IMG_usb_mic.jpg?raw=true' />
+</p>
+
   <br/>
   ########################################################## <br/>
   相对于普通的usb声卡。 <br/> 
