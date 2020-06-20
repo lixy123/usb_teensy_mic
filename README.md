@@ -1,11 +1,9 @@
 
-自做usb数字麦克风, 步骤如下 <br/> <br/>
-
+自做usb数字麦克风, 步骤如下 <br/> 
 1.硬件准备<br/>
    A.teensy3.6版本<br/>
    B.MSM261S4030H0 或 INMP441数字麦克风模块<br/>
    C.MAX98357A 模块 (如果不要声音输出，可不接)<br/> <br/>
-   
 2. 软件烧录至teensy <br/>
     A.下载安装软件arduino<br/>
     B. 安装 teensy 开发库，<br/>
