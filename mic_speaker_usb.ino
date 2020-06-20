@@ -13,7 +13,7 @@ AudioOutputI2S           i2s_speaker;           //xy=347.00000381469727,288.0000
 AudioOutputUSB           usb_mic;           //xy=348,156
 
 AudioConnection          patchCord1(usb_speaker, 0, i2s_speaker, 0);
-AudioConnection          patchCord1(i2s_mic, 0, amp1, 0);
+AudioConnection          patchCord3(i2s_mic, 0, amp1, 0);
 AudioConnection          patchCord2(amp1, 0, usb_mic, 0);
 // GUItool: end automatically generated code
 
